@@ -1,5 +1,6 @@
-<img width="506" height="706" alt="image" src="https://github.com/user-attachments/assets/e4d08a4c-db13-42f6-9f28-f1b8f3c57eac" /><p align="center">
+<p align="center">
   <img src="assets/header.svg" alt="Megha SB, a developer's journal" width="100%">
+</p>  <img src="assets/header.svg" alt="Megha SB, a developer's journal" width="100%">
 </p>
 
 <p align="center">

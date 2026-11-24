@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Megha SB, a developer's journal" width="100%">
 </p>  <img src="assets/header.svg" alt="Megha SB, a developer's journal" width="100%">
 </p>
 

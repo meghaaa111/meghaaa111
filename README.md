@@ -1,4 +1,4 @@
-<p align="center">
+<img width="506" height="706" alt="image" src="https://github.com/user-attachments/assets/e4d08a4c-db13-42f6-9f28-f1b8f3c57eac" /><p align="center">
   <img src="assets/header.svg" alt="Megha SB, a developer's journal" width="100%">
 </p>
 
@@ -76,7 +76,7 @@ Everything I build lives in my repositories. This page is the part that doesn't 
 
 ### Connect with me
 
-[LinkedIn](INSERT_LINKEDIN_URL) &nbsp;|&nbsp; [Email](mailto:INSERT_EMAIL) &nbsp;|&nbsp; [Portfolio](INSERT_PORTFOLIO_URL)
+[LinkedIn](https://www.linkedin.com/in/megha-s-b-aiml/) &nbsp;|&nbsp; [Email](mailto:meghasb2007@gmail.com) &nbsp;|&nbsp; [Portfolio](https://meghaaa111.github.io/)
 
 <p align="center"><img src="assets/divider.svg" alt="" width="320"></p>
 
